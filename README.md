@@ -69,8 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Why this code implementation is the best?
-*Followed Principles and Object-Oriented Programming (OOP).
-*Separated Scripts, Styles, and Resources for cleaner code
-*Utilized React for building user interfaces.
-*Implemented Geoapify and Open weather API
+### `Why this code implementation is the best?
+*Followed Principles and Object-Oriented Programming (OOP).\
+*Separated Scripts, Styles, and Resources for cleaner code.\
+*Utilized React for building user interfaces.\
+*Implemented Geoapify and Open weather map API.
