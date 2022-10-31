@@ -8,7 +8,7 @@ In the project directory, you please run:
 
 ### `npm update`
 
-Updates the npm file to the latest version.\
+Updates the npm file to the latest version.
 
 ### `npm start`
 
